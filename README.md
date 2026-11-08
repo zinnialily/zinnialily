@@ -7,4 +7,3 @@ Computer Science @ Carnegie Mellon University, Class of 2030
 - [rescue](https://github.com/zinnialily/rescue): compared 4 routing algorithms to get ambulances to disaster victims faster despite damaged roads (Independent Research)
 
 More on my [repositories tab](https://github.com/zinnialily?tab=repositories).
-[![my nomling](https://nomlings.cc/badge/YOUR-USERNAME)](https://nomlings.cc/badge)
