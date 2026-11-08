@@ -1,4 +1,4 @@
-CS @ CMU 2030
+Computer Science @ Carnegie Mellon University, Class of 2030
 
 **Projects**
 - [flood-classification-hnm](https://github.com/zinnialily/flood-classification-hnm): flood detection research code (CRIS-HAZARD, University of South Florida)
