@@ -1,5 +1,3 @@
-# Aanya Singh
-
 Computer Science @ Carnegie Mellon University, Class of 2030
 
 **Projects**
